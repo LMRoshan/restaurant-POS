@@ -2,9 +2,9 @@ Deutsch Restaurant POS System
 A simple Point of Sale (POS) system designed for restaurants to manage orders and process transactions efficiently.
 
 Features
-  Order Management: Manage customer orders efficiently.
+  Order Processing: Create and modify food orders
+  Payment Processing: Handle cash and card payments
   Billing: Generate and print bills for completed orders.
-  Menu Management: Add, edit, and delete menu items.
 
 Installation
   1. Clone the repository:
