@@ -1,4 +1,4 @@
-Restaurant POS System
+Deutsch Restaurant POS System
 A simple Point of Sale (POS) system designed for restaurants to manage orders and process transactions efficiently.
 
 Features
